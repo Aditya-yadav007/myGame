@@ -1,0 +1,12 @@
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 10cm;
+    justify-content: center;
+}
