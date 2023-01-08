@@ -40,7 +40,9 @@ nav ul{
 }
 
 .box{
-    border: 2px solid black;
+    border: 5px solid black;
+    background-color: ghostwhite;
+    color: blue;
     font-size: 8vw;
     cursor: pointer;
     display: flex;
@@ -99,10 +101,10 @@ nav ul{
 
 .line{
     background-color: black;
-    height: 3px;
-    width: 0;
+    height: 5px;
+    width: 10px;
     position: absolute;
-    background-color: #911d91;
+    background-color: #7c137c;
     transition: width 1s ease-in-out;
 }
 
