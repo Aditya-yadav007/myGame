@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("background2.jpeg");
+    background-image: url("myGame/background2.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
